@@ -1,0 +1,377 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DC50B8DF1DB0B7E100BD46D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC50B8DE1DB0B7E100BD46D6 /* AppDelegate.swift */; };
+		DC50B8E11DB0B7E100BD46D6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC50B8E01DB0B7E100BD46D6 /* ViewController.swift */; };
+		DC50B8E41DB0B7E100BD46D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC50B8E21DB0B7E100BD46D6 /* Main.storyboard */; };
+		DC50B8E61DB0B7E100BD46D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC50B8E51DB0B7E100BD46D6 /* Assets.xcassets */; };
+		DC50B8E91DB0B7E100BD46D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC50B8E71DB0B7E100BD46D6 /* LaunchScreen.storyboard */; };
+		DC50B9051DB0C06600BD46D6 /* Background1.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9011DB0C06600BD46D6 /* Background1.png */; };
+		DC50B9061DB0C06600BD46D6 /* LogIn.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9021DB0C06600BD46D6 /* LogIn.png */; };
+		DC50B9071DB0C06600BD46D6 /* Logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9031DB0C06600BD46D6 /* Logo1.png */; };
+		DC50B9081DB0C06600BD46D6 /* SignUp1.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9041DB0C06600BD46D6 /* SignUp1.png */; };
+		DC50B9131DB0C21500BD46D6 /* chevron-left - FontAwesome.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9091DB0C21500BD46D6 /* chevron-left - FontAwesome.png */; };
+		DC50B9141DB0C21500BD46D6 /* Don’t have an accoun.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B90A1DB0C21500BD46D6 /* Don’t have an accoun.png */; };
+		DC50B9151DB0C21500BD46D6 /* EmailPasswordRectangle.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B90B1DB0C21500BD46D6 /* EmailPasswordRectangle.png */; };
+		DC50B9161DB0C21500BD46D6 /* FacebookLogIn.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B90C1DB0C21500BD46D6 /* FacebookLogIn.png */; };
+		DC50B9171DB0C21500BD46D6 /* Forgot Password?.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B90D1DB0C21500BD46D6 /* Forgot Password?.png */; };
+		DC50B9181DB0C21500BD46D6 /* GoogleLogIn.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B90E1DB0C21500BD46D6 /* GoogleLogIn.png */; };
+		DC50B9191DB0C21500BD46D6 /* Line.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B90F1DB0C21500BD46D6 /* Line.png */; };
+		DC50B91A1DB0C21500BD46D6 /* LogIn2.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9101DB0C21500BD46D6 /* LogIn2.png */; };
+		DC50B91B1DB0C21500BD46D6 /* OR.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9111DB0C21500BD46D6 /* OR.png */; };
+		DC50B91C1DB0C21500BD46D6 /* UIseads.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9121DB0C21500BD46D6 /* UIseads.png */; };
+		DC50B91E1DB0C5AB00BD46D6 /* By using Seads, you.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B91D1DB0C5AB00BD46D6 /* By using Seads, you.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		DC50B8DB1DB0B7E100BD46D6 /* UIDesign.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIDesign.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC50B8DE1DB0B7E100BD46D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DC50B8E01DB0B7E100BD46D6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		DC50B8E31DB0B7E100BD46D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DC50B8E51DB0B7E100BD46D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DC50B8E81DB0B7E100BD46D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DC50B8EA1DB0B7E100BD46D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC50B9011DB0C06600BD46D6 /* Background1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background1.png; path = "../../../Icons UIDesign/Background1.png"; sourceTree = "<group>"; };
+		DC50B9021DB0C06600BD46D6 /* LogIn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LogIn.png; path = "../../../Icons UIDesign/LogIn.png"; sourceTree = "<group>"; };
+		DC50B9031DB0C06600BD46D6 /* Logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo1.png; path = "../../../Icons UIDesign/Logo1.png"; sourceTree = "<group>"; };
+		DC50B9041DB0C06600BD46D6 /* SignUp1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SignUp1.png; path = "../../../Icons UIDesign/SignUp1.png"; sourceTree = "<group>"; };
+		DC50B9091DB0C21500BD46D6 /* chevron-left - FontAwesome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "chevron-left - FontAwesome.png"; path = "../../../Icons UIDesign/chevron-left - FontAwesome.png"; sourceTree = "<group>"; };
+		DC50B90A1DB0C21500BD46D6 /* Don’t have an accoun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Don’t have an accoun.png"; path = "../../../Icons UIDesign/Don’t have an accoun.png"; sourceTree = "<group>"; };
+		DC50B90B1DB0C21500BD46D6 /* EmailPasswordRectangle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = EmailPasswordRectangle.png; path = "../../../Icons UIDesign/EmailPasswordRectangle.png"; sourceTree = "<group>"; };
+		DC50B90C1DB0C21500BD46D6 /* FacebookLogIn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FacebookLogIn.png; path = "../../../Icons UIDesign/FacebookLogIn.png"; sourceTree = "<group>"; };
+		DC50B90D1DB0C21500BD46D6 /* Forgot Password?.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Forgot Password?.png"; path = "../../../Icons UIDesign/Forgot Password?.png"; sourceTree = "<group>"; };
+		DC50B90E1DB0C21500BD46D6 /* GoogleLogIn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GoogleLogIn.png; path = "../../../Icons UIDesign/GoogleLogIn.png"; sourceTree = "<group>"; };
+		DC50B90F1DB0C21500BD46D6 /* Line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Line.png; path = "../../../Icons UIDesign/Line.png"; sourceTree = "<group>"; };
+		DC50B9101DB0C21500BD46D6 /* LogIn2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LogIn2.png; path = "../../../Icons UIDesign/LogIn2.png"; sourceTree = "<group>"; };
+		DC50B9111DB0C21500BD46D6 /* OR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = OR.png; path = "../../../Icons UIDesign/OR.png"; sourceTree = "<group>"; };
+		DC50B9121DB0C21500BD46D6 /* UIseads.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UIseads.png; path = "../../../Icons UIDesign/UIseads.png"; sourceTree = "<group>"; };
+		DC50B91D1DB0C5AB00BD46D6 /* By using Seads, you.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "By using Seads, you.png"; path = "../../../Icons UIDesign/By using Seads, you.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DC50B8D81DB0B7E100BD46D6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DC50B8D21DB0B7E100BD46D6 = {
+			isa = PBXGroup;
+			children = (
+				DC50B8DD1DB0B7E100BD46D6 /* UIDesign */,
+				DC50B8DC1DB0B7E100BD46D6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DC50B8DC1DB0B7E100BD46D6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DC50B8DB1DB0B7E100BD46D6 /* UIDesign.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DC50B8DD1DB0B7E100BD46D6 /* UIDesign */ = {
+			isa = PBXGroup;
+			children = (
+				DC50B8F01DB0B82500BD46D6 /* Supporting Files */,
+				DC50B8E01DB0B7E100BD46D6 /* ViewController.swift */,
+				DC50B8E21DB0B7E100BD46D6 /* Main.storyboard */,
+			);
+			path = UIDesign;
+			sourceTree = "<group>";
+		};
+		DC50B8F01DB0B82500BD46D6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DC50B91D1DB0C5AB00BD46D6 /* By using Seads, you.png */,
+				DC50B9091DB0C21500BD46D6 /* chevron-left - FontAwesome.png */,
+				DC50B90A1DB0C21500BD46D6 /* Don’t have an accoun.png */,
+				DC50B90B1DB0C21500BD46D6 /* EmailPasswordRectangle.png */,
+				DC50B90C1DB0C21500BD46D6 /* FacebookLogIn.png */,
+				DC50B90D1DB0C21500BD46D6 /* Forgot Password?.png */,
+				DC50B90E1DB0C21500BD46D6 /* GoogleLogIn.png */,
+				DC50B90F1DB0C21500BD46D6 /* Line.png */,
+				DC50B9101DB0C21500BD46D6 /* LogIn2.png */,
+				DC50B9111DB0C21500BD46D6 /* OR.png */,
+				DC50B9121DB0C21500BD46D6 /* UIseads.png */,
+				DC50B9011DB0C06600BD46D6 /* Background1.png */,
+				DC50B9021DB0C06600BD46D6 /* LogIn.png */,
+				DC50B9031DB0C06600BD46D6 /* Logo1.png */,
+				DC50B9041DB0C06600BD46D6 /* SignUp1.png */,
+				DC50B8DE1DB0B7E100BD46D6 /* AppDelegate.swift */,
+				DC50B8E51DB0B7E100BD46D6 /* Assets.xcassets */,
+				DC50B8E71DB0B7E100BD46D6 /* LaunchScreen.storyboard */,
+				DC50B8EA1DB0B7E100BD46D6 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DC50B8DA1DB0B7E100BD46D6 /* UIDesign */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DC50B8ED1DB0B7E100BD46D6 /* Build configuration list for PBXNativeTarget "UIDesign" */;
+			buildPhases = (
+				DC50B8D71DB0B7E100BD46D6 /* Sources */,
+				DC50B8D81DB0B7E100BD46D6 /* Frameworks */,
+				DC50B8D91DB0B7E100BD46D6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UIDesign;
+			productName = UIDesign;
+			productReference = DC50B8DB1DB0B7E100BD46D6 /* UIDesign.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DC50B8D31DB0B7E100BD46D6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Douglas Silva";
+				TargetAttributes = {
+					DC50B8DA1DB0B7E100BD46D6 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 6P29MLAXD8;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = DC50B8D61DB0B7E100BD46D6 /* Build configuration list for PBXProject "UIDesign" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DC50B8D21DB0B7E100BD46D6;
+			productRefGroup = DC50B8DC1DB0B7E100BD46D6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DC50B8DA1DB0B7E100BD46D6 /* UIDesign */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DC50B8D91DB0B7E100BD46D6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC50B91E1DB0C5AB00BD46D6 /* By using Seads, you.png in Resources */,
+				DC50B8E91DB0B7E100BD46D6 /* LaunchScreen.storyboard in Resources */,
+				DC50B9161DB0C21500BD46D6 /* FacebookLogIn.png in Resources */,
+				DC50B9141DB0C21500BD46D6 /* Don’t have an accoun.png in Resources */,
+				DC50B8E61DB0B7E100BD46D6 /* Assets.xcassets in Resources */,
+				DC50B9071DB0C06600BD46D6 /* Logo1.png in Resources */,
+				DC50B9191DB0C21500BD46D6 /* Line.png in Resources */,
+				DC50B9131DB0C21500BD46D6 /* chevron-left - FontAwesome.png in Resources */,
+				DC50B9171DB0C21500BD46D6 /* Forgot Password?.png in Resources */,
+				DC50B9151DB0C21500BD46D6 /* EmailPasswordRectangle.png in Resources */,
+				DC50B8E41DB0B7E100BD46D6 /* Main.storyboard in Resources */,
+				DC50B91B1DB0C21500BD46D6 /* OR.png in Resources */,
+				DC50B9081DB0C06600BD46D6 /* SignUp1.png in Resources */,
+				DC50B91C1DB0C21500BD46D6 /* UIseads.png in Resources */,
+				DC50B91A1DB0C21500BD46D6 /* LogIn2.png in Resources */,
+				DC50B9061DB0C06600BD46D6 /* LogIn.png in Resources */,
+				DC50B9051DB0C06600BD46D6 /* Background1.png in Resources */,
+				DC50B9181DB0C21500BD46D6 /* GoogleLogIn.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DC50B8D71DB0B7E100BD46D6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC50B8E11DB0B7E100BD46D6 /* ViewController.swift in Sources */,
+				DC50B8DF1DB0B7E100BD46D6 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		DC50B8E21DB0B7E100BD46D6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DC50B8E31DB0B7E100BD46D6 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DC50B8E71DB0B7E100BD46D6 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DC50B8E81DB0B7E100BD46D6 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DC50B8EB1DB0B7E100BD46D6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DC50B8EC1DB0B7E100BD46D6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DC50B8EE1DB0B7E100BD46D6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6P29MLAXD8;
+				INFOPLIST_FILE = UIDesign/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SilvaDouglas.UIDesign;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		DC50B8EF1DB0B7E100BD46D6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6P29MLAXD8;
+				INFOPLIST_FILE = UIDesign/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SilvaDouglas.UIDesign;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DC50B8D61DB0B7E100BD46D6 /* Build configuration list for PBXProject "UIDesign" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC50B8EB1DB0B7E100BD46D6 /* Debug */,
+				DC50B8EC1DB0B7E100BD46D6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DC50B8ED1DB0B7E100BD46D6 /* Build configuration list for PBXNativeTarget "UIDesign" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC50B8EE1DB0B7E100BD46D6 /* Debug */,
+				DC50B8EF1DB0B7E100BD46D6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DC50B8D31DB0B7E100BD46D6 /* Project object */;
+}
