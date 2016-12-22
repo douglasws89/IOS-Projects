@@ -16,7 +16,6 @@
 		DC50B9061DB0C06600BD46D6 /* LogIn.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9021DB0C06600BD46D6 /* LogIn.png */; };
 		DC50B9071DB0C06600BD46D6 /* Logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9031DB0C06600BD46D6 /* Logo1.png */; };
 		DC50B9081DB0C06600BD46D6 /* SignUp1.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9041DB0C06600BD46D6 /* SignUp1.png */; };
-		DC50B9131DB0C21500BD46D6 /* chevron-left - FontAwesome.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9091DB0C21500BD46D6 /* chevron-left - FontAwesome.png */; };
 		DC50B9141DB0C21500BD46D6 /* Don’t have an accoun.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B90A1DB0C21500BD46D6 /* Don’t have an accoun.png */; };
 		DC50B9151DB0C21500BD46D6 /* EmailPasswordRectangle.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B90B1DB0C21500BD46D6 /* EmailPasswordRectangle.png */; };
 		DC50B9161DB0C21500BD46D6 /* FacebookLogIn.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B90C1DB0C21500BD46D6 /* FacebookLogIn.png */; };
@@ -27,6 +26,9 @@
 		DC50B91B1DB0C21500BD46D6 /* OR.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9111DB0C21500BD46D6 /* OR.png */; };
 		DC50B91C1DB0C21500BD46D6 /* UIseads.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9121DB0C21500BD46D6 /* UIseads.png */; };
 		DC50B91E1DB0C5AB00BD46D6 /* By using Seads, you.png in Resources */ = {isa = PBXBuildFile; fileRef = DC50B91D1DB0C5AB00BD46D6 /* By using Seads, you.png */; };
+		DC50B9241DB3E6A600BD46D6 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC50B9231DB3E6A600BD46D6 /* LogInViewController.swift */; };
+		DC50B9261DB3FD7A00BD46D6 /* giphy.gif in Resources */ = {isa = PBXBuildFile; fileRef = DC50B9251DB3FD7A00BD46D6 /* giphy.gif */; };
+		DC50B92A1DB413AB00BD46D6 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC50B9291DB413AB00BD46D6 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,7 +43,6 @@
 		DC50B9021DB0C06600BD46D6 /* LogIn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LogIn.png; path = "../../../Icons UIDesign/LogIn.png"; sourceTree = "<group>"; };
 		DC50B9031DB0C06600BD46D6 /* Logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo1.png; path = "../../../Icons UIDesign/Logo1.png"; sourceTree = "<group>"; };
 		DC50B9041DB0C06600BD46D6 /* SignUp1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SignUp1.png; path = "../../../Icons UIDesign/SignUp1.png"; sourceTree = "<group>"; };
-		DC50B9091DB0C21500BD46D6 /* chevron-left - FontAwesome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "chevron-left - FontAwesome.png"; path = "../../../Icons UIDesign/chevron-left - FontAwesome.png"; sourceTree = "<group>"; };
 		DC50B90A1DB0C21500BD46D6 /* Don’t have an accoun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Don’t have an accoun.png"; path = "../../../Icons UIDesign/Don’t have an accoun.png"; sourceTree = "<group>"; };
 		DC50B90B1DB0C21500BD46D6 /* EmailPasswordRectangle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = EmailPasswordRectangle.png; path = "../../../Icons UIDesign/EmailPasswordRectangle.png"; sourceTree = "<group>"; };
 		DC50B90C1DB0C21500BD46D6 /* FacebookLogIn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FacebookLogIn.png; path = "../../../Icons UIDesign/FacebookLogIn.png"; sourceTree = "<group>"; };
@@ -52,6 +53,9 @@
 		DC50B9111DB0C21500BD46D6 /* OR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = OR.png; path = "../../../Icons UIDesign/OR.png"; sourceTree = "<group>"; };
 		DC50B9121DB0C21500BD46D6 /* UIseads.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UIseads.png; path = "../../../Icons UIDesign/UIseads.png"; sourceTree = "<group>"; };
 		DC50B91D1DB0C5AB00BD46D6 /* By using Seads, you.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "By using Seads, you.png"; path = "../../../Icons UIDesign/By using Seads, you.png"; sourceTree = "<group>"; };
+		DC50B9231DB3E6A600BD46D6 /* LogInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
+		DC50B9251DB3FD7A00BD46D6 /* giphy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = giphy.gif; path = "../../../Icons UIDesign/giphy.gif"; sourceTree = "<group>"; };
+		DC50B9291DB413AB00BD46D6 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainViewController.swift; path = ../MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,8 @@
 			children = (
 				DC50B8F01DB0B82500BD46D6 /* Supporting Files */,
 				DC50B8E01DB0B7E100BD46D6 /* ViewController.swift */,
+				DC50B9231DB3E6A600BD46D6 /* LogInViewController.swift */,
+				DC50B9291DB413AB00BD46D6 /* MainViewController.swift */,
 				DC50B8E21DB0B7E100BD46D6 /* Main.storyboard */,
 			);
 			path = UIDesign;
@@ -94,8 +100,8 @@
 		DC50B8F01DB0B82500BD46D6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DC50B9251DB3FD7A00BD46D6 /* giphy.gif */,
 				DC50B91D1DB0C5AB00BD46D6 /* By using Seads, you.png */,
-				DC50B9091DB0C21500BD46D6 /* chevron-left - FontAwesome.png */,
 				DC50B90A1DB0C21500BD46D6 /* Don’t have an accoun.png */,
 				DC50B90B1DB0C21500BD46D6 /* EmailPasswordRectangle.png */,
 				DC50B90C1DB0C21500BD46D6 /* FacebookLogIn.png */,
@@ -184,10 +190,10 @@
 				DC50B8E61DB0B7E100BD46D6 /* Assets.xcassets in Resources */,
 				DC50B9071DB0C06600BD46D6 /* Logo1.png in Resources */,
 				DC50B9191DB0C21500BD46D6 /* Line.png in Resources */,
-				DC50B9131DB0C21500BD46D6 /* chevron-left - FontAwesome.png in Resources */,
 				DC50B9171DB0C21500BD46D6 /* Forgot Password?.png in Resources */,
 				DC50B9151DB0C21500BD46D6 /* EmailPasswordRectangle.png in Resources */,
 				DC50B8E41DB0B7E100BD46D6 /* Main.storyboard in Resources */,
+				DC50B9261DB3FD7A00BD46D6 /* giphy.gif in Resources */,
 				DC50B91B1DB0C21500BD46D6 /* OR.png in Resources */,
 				DC50B9081DB0C06600BD46D6 /* SignUp1.png in Resources */,
 				DC50B91C1DB0C21500BD46D6 /* UIseads.png in Resources */,
@@ -207,6 +213,8 @@
 			files = (
 				DC50B8E11DB0B7E100BD46D6 /* ViewController.swift in Sources */,
 				DC50B8DF1DB0B7E100BD46D6 /* AppDelegate.swift in Sources */,
+				DC50B9241DB3E6A600BD46D6 /* LogInViewController.swift in Sources */,
+				DC50B92A1DB413AB00BD46D6 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -370,6 +378,7 @@
 				DC50B8EF1DB0B7E100BD46D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
